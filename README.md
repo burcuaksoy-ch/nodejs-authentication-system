@@ -1,10 +1,9 @@
-<img width="973" height="707" alt="image" src="https://github.com/user-attachments/assets/e384e1c9-dff6-4e57-960a-a2b64fdbd143" />
-
-
-
-
 
 # 🔐 User Authentication System
+
+
+## ![userRegister](https://github.com/user-attachments/assets/bd7aff05-f6fe-46d5-9905-905e49e656b0)
+
 
 A simple and secure user registration and login system built with **Node.js**, **Express**, **MongoDB**, and **JWT**.
 
